@@ -1,5 +1,5 @@
 {
- username: 'Brett',
+ 'username': 'Brett',
     quantities: {
         posts: 10,
         albums: 10,
