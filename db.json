@@ -1,10 +1,10 @@
 {
- 'username': 'Brett',
-    quantities: {
-        posts: 10,
-        albums: 10,
-        todos: 20
-    },
+ "username": 'Brett',
+ "quantities": {
+   "posts": 10,
+   "albums": 10,
+   "todos": 20
+  },
     fiveMostRecentPosts: {
         post1: {
             title: 'sunt aut facere repellat',
